@@ -9,7 +9,7 @@
  margin: 0;
  padding: 0;
  box-sizing: border-box;
- font-family: Arial, sans-serif;
+ font-family: "Jersey 15", sans-serif;
  scroll-behavior: smooth;
 }
 
@@ -53,6 +53,7 @@ nav ul{
 
 nav ul li{
     margin-left: 20px;
+    font-size: 1.5em;
 }
 
 nav ul li a{
@@ -101,12 +102,12 @@ section{
 }
 
 .sobre-texto h1{
- font-size: 1.5;
+ font-size: 1.7;
  margin-bottom: 20px;
 }
 
 .sobre-texto p{
-    font-size: 1;
+    font-size: 1.2em;
     line-height: 1.5;
     text-align: justify;
     margin-top: 10px;
@@ -120,11 +121,11 @@ section{
 .sobre-texto a{
     color: #4d3f72;
     text-decoration: none;
-    font-size: 0.8em;
+    font-size: 1em;
  }
 
  .fonte{
-    font-size:0.8em;
+    font-size:1em;
  }
 
 .hex-grid{
@@ -187,7 +188,7 @@ section{
 
 #acao .item p {
     margin-top: 15px; /* Espaço acima do parágrafo */
-    font-size: 0.95em; /* Tamanho da fonte um pouco menor que o padrão */
+    font-size: 1.2em; /* Tamanho da fonte um pouco menor que o padrão */
     color: #4d3f72; /* Cor do texto (roxo escuro) */
 }
 
